@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abhishek Kumar</h1>
-<h3 align="center">A passionate Web developer And Coder</h3>
+<h1 align="center">Hi 👋, I'm Abhishek </h1>
+<h3 align="center">A passionate Web developer, Coder and Open Source Contributor</h3>
 
 - 🌱 I’m currently learning **Web Development and Programming**
 
