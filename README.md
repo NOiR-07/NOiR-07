@@ -23,7 +23,7 @@
 ---
 
 
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noir-07&show_icons=true&theme=dracula&locale=en&layout=compact" alt="noir-07" /></p>
 
 <a href="https://api.daily.dev/noir07" target="_blank">
     <img
