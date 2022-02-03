@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=NOiR-07" alt="NOiR-07" /></a> </p>
 
-- 🌱 I’m currently learning **Web Development and Programming**
+- 🌱 I’m currently learning **Web Development and DSA**
 
 - 💬 Ask me about **Anything**
 
@@ -13,7 +13,7 @@
 <p align="left">
 <a href="https://twitter.com/akumar6665" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="akumar6665" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/abhishek-kumar-9a70b51b1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="abhishek-kumar-9a70b51b1" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/noir____07/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/noir____07/" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_noir989_/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/_noir989_/" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/https://www.codechef.com/users/noir_07" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/noir_07" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/abhishekkumar665" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="https://www.hackerrank.com/abhishekkumar665" height="30" width="40" /></a>
 </p>
