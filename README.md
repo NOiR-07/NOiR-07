@@ -30,8 +30,9 @@
       alt="Abhishek Kumar's Dev Card"
     />
   </a>   
+  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noir-07&show_icons=true&theme=dracula&locale=en&layout=compact" alt="noir-07" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=noir-07&show_icons=true&theme=dracula&locale=en" alt="noir-07" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=noir-07&theme=dark" alt="noir-07" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=noir-07&show_icons=true&theme=dracula&locale=en" alt="noir-07" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=noir-07&theme=dark" alt="noir-07" /></p>
 
 ---
