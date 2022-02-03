@@ -25,7 +25,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=noir-07&show_icons=true&theme=dracula&locale=en&layout=compact" alt="noir-07" /></p>
 <a href="https://api.daily.dev/noir07" target="_blank">
     <img
-      width="300"
+      width="325"
       align="right"
       src="https://api.daily.dev/devcards/097abfe82d1d481a9cf1629abdc8bb1e.png?r=d2d"
       alt="Abhishek Kumar's Dev Card"
